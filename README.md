@@ -1,4 +1,4 @@
-# Sterring-Behavior
+# Steering-Behavior
 you can check it out [here](https://manojtummala.github.io/Sterring-Behavior/)
 
 I have applied here the [steering behavior algorithm](http://www.red3d.com/cwr/steer/) 
