@@ -15,7 +15,7 @@ This here is a function that is already existing in p5JS library.. for processin
 
 Just keep all the positions of the text in an array and then place the points in those places..
 
-# Steering-Behaviour: 
+# Steering-Behavior: 
 here it means that every particle is given some velocity and has some desired acceleration or speed.. 
         
    now we have to give it a random position on the canvas and a fixed target as per text..
